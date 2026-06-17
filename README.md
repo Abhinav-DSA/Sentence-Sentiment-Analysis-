@@ -1,4 +1,4 @@
-#  **Sentiment Analysis- Beginning steps of reading minds**  
+#  **Sentiment Sphere- Beginning steps of reading minds**  
 **Unlocking Emotions in Every Sentence**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/) 
