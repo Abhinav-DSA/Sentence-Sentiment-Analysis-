@@ -1,4 +1,4 @@
-# 🎯 **SentimentSphere**  
+#  **Sentiment Analysis- Beginning steps of reading minds**  
 **Unlocking Emotions in Every Sentence**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/) 
@@ -6,11 +6,6 @@
 [![Stars](https://img.shields.io/github/stars/yourusername/SentimentSphere?style=social)](https://github.com/yourusername/SentimentSphere)
 
 > *From simple sentiment to deep psychological insights — the foundation for understanding the human mind through text.*
-
-![Project Banner](https://via.placeholder.com/1200x400/4A90E2/FFFFFF?text=SentimentSphere+-+Emotion+Meets+Intelligence)  
-*(Replace with your actual project banner showcasing emotion visualization)*
-
----
 
 ## ✨ **About the Project**
 
